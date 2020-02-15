@@ -218,7 +218,7 @@ Copyright (c) 2018 - mital_04
             speed: 200,
             loop:true,
             strings: [
-              'a Computer Science Enthusiast',
+              'A Computer Science Enthusiast',
               'looking for passion',
               'not a conventionalist',
               'a visionary',
