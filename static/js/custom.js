@@ -218,11 +218,11 @@ Copyright (c) 2018 - mital_04
             speed: 200,
             loop:true,
             strings: [
-              'Computer Science Enthusiast',
+              'a Computer Science Enthusiast',
               'looking for passion',
               'not a conventionalist',
               'a visionary',
-              "ENTP (Debater)"
+              "a ENTP (Debater)"
             ],
             breakLines: false
         }); 
